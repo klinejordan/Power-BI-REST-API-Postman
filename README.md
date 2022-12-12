@@ -1,3 +1,3 @@
-# Power BI REST API Custom Connector
-A Postman Collection to use with the Power BI REST API
+# Power BI REST API Postman
+A Postman collection and environment for working with the Power BI REST API
 
