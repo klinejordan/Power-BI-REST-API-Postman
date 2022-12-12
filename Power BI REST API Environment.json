@@ -1,6 +1,6 @@
 {
 	"id": "a24f9673-fb25-40de-950e-8265ede3e5d8",
-	"name": "Power BI REST API Admin Copy",
+	"name": "Power BI REST API Admin",
 	"values": [
 		{
 			"key": "client_id",
@@ -14,7 +14,7 @@
 		},
 		{
 			"key": "tenant_id",
-			"value": "08a83339-90e7-49bf-9075-957ccd561bf1",
+			"value": "Your tenant ID goes here",
 			"enabled": true
 		},
 		{
